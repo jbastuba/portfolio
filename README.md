@@ -24,10 +24,10 @@
 
 ### Projects
 **Deep Learning**
-* [Houseplant Image Classification with NN - Google Colab Notebook](https://colab.research.google.com/drive/19r9e-d2zvKwXH2NIGKXF8Xg1ElAvxo9K?usp=sharing)
-* [Image Segmentation - Google Colab Notebook](https://colab.research.google.com/drive/1ZkGXj-qUZs2uKneeTINeQVXL45V_At40?usp=sharing)
-* [Regression Neural Network From Scratch - Google Colab Notebook](https://colab.research.google.com/drive/1AmXDf3ie0Dwt29w_KxzWwac3T8FEDh7M?usp=drive_link)
-* [Simple digit image classification - Google Colab Notebook](https://colab.research.google.com/drive/1aTZPtaPQLrtxVWuHzWmL_tCYBOQrOVuS?usp=sharing)
+* Houseplant Image Classification with NN - [Google Colab Notebook](https://colab.research.google.com/drive/19r9e-d2zvKwXH2NIGKXF8Xg1ElAvxo9K?usp=sharing) / [Report on Project](https://docs.google.com/document/d/1-o4ZdEfbNxdI0uw-eawbuCaA0Xv-_qJNTuU7LlF7fi4/edit?usp=sharing)
+* Image Segmentation - [Google Colab Notebook](https://colab.research.google.com/drive/1ZkGXj-qUZs2uKneeTINeQVXL45V_At40?usp=sharing)
+* Regression Neural Network From Scratch - [Google Colab Notebook](https://colab.research.google.com/drive/1AmXDf3ie0Dwt29w_KxzWwac3T8FEDh7M?usp=drive_link)
+* Simple digit image classification - [Google Colab Notebook](https://colab.research.google.com/drive/1aTZPtaPQLrtxVWuHzWmL_tCYBOQrOVuS?usp=sharing)
 
 **Machine Learning**
 * Pending uploads!
