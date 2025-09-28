@@ -32,4 +32,4 @@ Python, R, C, C++, Machine Learning, Deep Learning, Statistics
 * Simple digit image classification - [Google Colab Notebook](https://colab.research.google.com/drive/1aTZPtaPQLrtxVWuHzWmL_tCYBOQrOVuS?usp=sharing)
 
 **Machine Learning**
-* Pending uploads!
+* Binary Classification of Mushroom Species Edibility - [R HTML doc](https://jbastuba.github.io/r-markdown-pages/jbastuba-binary-classification-mushroom.html)
